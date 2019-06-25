@@ -1,0 +1,16 @@
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+.icon-password {
+  background: url('../images/sprite.png') no-repeat 0px 0px;
+  background-size: 143px 64px;
+  width: 64px;
+  height: 64px;
+}
+.icon-user {
+  background: url('../images/sprite.png') no-repeat -79px 0px;
+  background-size: 143px 64px;
+  width: 64px;
+  height: 64px;
+}
